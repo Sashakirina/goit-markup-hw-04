@@ -170,6 +170,8 @@ address {
   background-repeat: no-repeat;
   background-position: center;
   max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .hero-container {
